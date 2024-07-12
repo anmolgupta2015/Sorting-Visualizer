@@ -16,3 +16,8 @@ Demo:
 
 ![heapsort](https://github.com/user-attachments/assets/92f67ce1-1167-4d6c-8dc1-9adf1a051a66)
 
+2.Merge Sort
+![mergesort](https://github.com/user-attachments/assets/31dc9575-bfff-4e26-9ac9-d4f9cfa833ce)
+
+3.Bubble Sort
+![bubblesort](https://github.com/user-attachments/assets/a3ccf059-06fb-488f-a781-f8c227ee3cc7)
