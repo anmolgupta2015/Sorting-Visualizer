@@ -14,4 +14,5 @@ Demo:
 
 1.Heap Sort
 
-![sorting](https://github.com/user-attachments/assets/9397c2b7-6247-4dee-9664-1f40c13f234d)
+![heapsort](https://github.com/user-attachments/assets/92f67ce1-1167-4d6c-8dc1-9adf1a051a66)
+
